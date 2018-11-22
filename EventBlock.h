@@ -12,4 +12,12 @@ public:
 	{
 		
 	}	
+	void setEvent()
+	{
+		
+	}
+	void removeEvent()
+	{
+		
+	}
 };
