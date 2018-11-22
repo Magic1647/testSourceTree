@@ -1,0 +1,9 @@
+
+class Block
+{
+public:
+	Block()
+	{
+		
+	}	
+};
