@@ -8,10 +8,15 @@ class EventPool
 private:
 	Event[] events...
 	//Random rand
+	//int num
 		
 public:
 	EventPool()
 	{
 		
 	}	
+	void random()
+	{
+		
+	}
 };
