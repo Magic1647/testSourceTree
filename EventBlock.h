@@ -16,4 +16,8 @@ public:
 	{
 		
 	}
+	void removeEvent()
+	{
+		
+	}
 };
